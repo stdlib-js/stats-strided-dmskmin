@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-07)
+## Unreleased (2025-06-09)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`8718b15`](https://github.com/stdlib-js/stdlib/commit/8718b159e8d9083f3ae5d3c254d1e864af65b15c) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`bdb69bc`](https://github.com/stdlib-js/stdlib/commit/bdb69bc8265ae8d652cfac41840569e1a20726f3) - **test:** fix missing function argument _(by Athan Reines)_
 -   [`855d4a6`](https://github.com/stdlib-js/stdlib/commit/855d4a65217504b0e032ae90df8fbdaf7b98e1f1) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`234bfac`](https://github.com/stdlib-js/stdlib/commit/234bfac90332c89568eb8a84a5525e8afa1f5cdd) - **feat:** add `stats/strided/dmskmin` _(by Aayush Khanna)_
