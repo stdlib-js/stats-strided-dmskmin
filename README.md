@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dmskmin from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-dmskmin@deno/mod.js';
+import dmskmin from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-dmskmin@v0.1.1-deno/mod.js';
 ```
 
 #### dmskmin( N, x, strideX, mask, strideMask )
@@ -161,7 +161,7 @@ var v = dmskmin.ndarray( 4, x, 2, 1, mask, 2, 1 );
 ```javascript
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-bernoulli@deno/mod.js';
-import dmskmin from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-dmskmin@deno/mod.js';
+import dmskmin from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-dmskmin@v0.1.1-deno/mod.js';
 
 var uniformOptions = {
     'dtype': 'float64'
