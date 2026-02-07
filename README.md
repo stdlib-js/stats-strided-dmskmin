@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dmskmin from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-dmskmin@esm/index.mjs';
+import dmskmin from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-dmskmin@v0.1.1-esm/index.mjs';
 ```
 
 #### dmskmin( N, x, strideX, mask, strideMask )
@@ -166,7 +166,7 @@ var v = dmskmin.ndarray( 4, x, 2, 1, mask, 2, 1 );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-bernoulli@esm/index.mjs';
-import dmskmin from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-dmskmin@esm/index.mjs';
+import dmskmin from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-dmskmin@v0.1.1-esm/index.mjs';
 
 var uniformOptions = {
     'dtype': 'float64'
