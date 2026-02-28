@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`a77363d`](https://github.com/stdlib-js/stdlib/commit/a77363df1266f71666762de91ea7b9c7f6022317) - **bench:** use string interpolation in `stats/strided/dmskmin` [(#10570)](https://github.com/stdlib-js/stdlib/pull/10570) _(by Om-A-osc)_
 -   [`177c9b9`](https://github.com/stdlib-js/stdlib/commit/177c9b9ef19cd92078c39b8f8aa0bd8364fb6ca3) - **docs:** fix notes _(by Athan Reines)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Om-A-osc
 
 </section>
 
