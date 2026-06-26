@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-01)
+## Unreleased (2026-06-26)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`ba7afec`](https://github.com/stdlib-js/stdlib/commit/ba7afec2a7f1435a3251f347873db6be1b1107ae) - **docs:** remove unused import [(#13142)](https://github.com/stdlib-js/stdlib/pull/13142) _(by Philipp Burckhardt)_
 -   [`35566af`](https://github.com/stdlib-js/stdlib/commit/35566af0add64775e60422fd16e50e1bec3947e7) - **docs:** fix C examples in READMEs [(#11229)](https://github.com/stdlib-js/stdlib/pull/11229) _(by anee3, Athan Reines)_
 -   [`a77363d`](https://github.com/stdlib-js/stdlib/commit/a77363df1266f71666762de91ea7b9c7f6022317) - **bench:** use string interpolation in `stats/strided/dmskmin` [(#10570)](https://github.com/stdlib-js/stdlib/pull/10570) _(by Om-A-osc)_
 -   [`177c9b9`](https://github.com/stdlib-js/stdlib/commit/177c9b9ef19cd92078c39b8f8aa0bd8364fb6ca3) - **docs:** fix notes _(by Athan Reines)_
@@ -26,10 +27,11 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Om-A-osc
+-   Philipp Burckhardt
 -   anee3
 
 </section>
